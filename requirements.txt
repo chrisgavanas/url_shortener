@@ -1,0 +1,4 @@
+flask==1.0.2
+pytest==4.0.1
+bitly-api==0.3
+TinyUrl==0.1.0
